@@ -1,0 +1,30 @@
+{
+  "name": "belajar-expressjs",
+  "version": "1.0.0",
+  "description": "Repo untuk belajar REST API menggunakan ExpressJS",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yosia17/belajar-expressjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yosia17/belajar-expressjs/issues"
+  },
+  "homepage": "https://github.com/yosia17/belajar-expressjs#readme",
+  "dependencies": {
+    "@prisma/client": "^4.13.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "prisma": "^4.13.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
